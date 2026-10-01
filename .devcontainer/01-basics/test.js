@@ -1,1 +1,2 @@
-console.log("iam pirshotam");
+console.log("iam pirshotam")
+alert("welcome herre");
