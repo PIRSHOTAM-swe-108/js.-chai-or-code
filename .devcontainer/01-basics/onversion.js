@@ -11,3 +11,11 @@ let someNumber = 108
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+console.log("2" <4 );
+console.log(null >0);
+console.log(null == 0);
+console.log(null >=0);
+console.log("2" >1);
+console.log(2 >"1");
+console.log("2" === 1);
+// === stricly checked
