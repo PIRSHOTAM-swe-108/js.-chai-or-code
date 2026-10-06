@@ -13,17 +13,4 @@
 // 1. Object  used to store collections of data and more complex entities
 // 2. Array array is a special type of object used to store ordered collections of data
 // 3. Function function is a block of code designed to perform a particular task
-const heros= ["Iron Man", "Spider Man", "Thor", "Hulk"]
- let hero = {
-    name: "Iron Man",
-    realName: "Tony Stark",
-    age: 48,
-    isAlive: true,
-    movies: ["Iron Man", "Iron Man 2", "Iron Man 3"]
-};
-let myFunction = function() {
-    console.log("Hello World");
-}
-console.log(typeof heros);
-console.log(typeof hero);
-console.log(typeof myFunction); 
+// stack (primitive) heap (non-primitive)
